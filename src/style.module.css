@@ -1,0 +1,10 @@
+.card :hover {
+    background-color: grey;
+    color: #fff;
+}
+
+iframe {
+    width: 80%;
+    height: 500px;
+    filter:invert(100%);
+}
